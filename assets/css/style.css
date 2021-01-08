@@ -40,7 +40,7 @@ h4 {
 }
 
 a {
-  color: red;
+  color: lightcoral;
   text-decoration: none !important;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -142,8 +142,8 @@ p {
 }
 
 .paddsections {
-  padding-top: 210px;
-  padding-bottom: 210px !important;
+  padding-top: 180px;
+  padding-bottom: 180px !important;
 }
 
 .hvr-shutter-in-horizontal::before {
@@ -334,12 +334,12 @@ nav ul li a {
   width: 100%;
   height: auto;
   background: #f7f7f7;
-  padding-top: 210px;
+  padding-top: 180px;
 }
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 9px solid #373C4C;
+  border: 9px solid #233A67;
 }
 
 #about .div-img-bg .about-img img {
